@@ -1,6 +1,6 @@
 Gorillas Documentation
 
-Ver. 0.10:  - Erste Version des Spiels
+Ver. 0.10:  - Erste Version des Spiels \n
             - Winkel und Stärke des Wurfs sind implementiert
             - Treffer auf die andere Person wurde berücksichtigt
             - Bisher nur von einer Person wird geworfen
