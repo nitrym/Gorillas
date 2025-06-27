@@ -13,3 +13,6 @@ Ver. 0.24:<br/>  - Fehler behoben, dass die Spieler nicht auf der selben Höhe w
 Ver. 0.25:<br/>  - Kugel wurde zur Banane geformt<br/><br/>
 Ver. 0.26:<br/>  - Banane wurde vergrößert<br/><br/>
 Ver. 0.27:<br/>  - Bildschirmverhältnis des Spiels wurde auf 2:1 angepasst<br/><br/>
+Ver. 0.30:<br/>  - Wurfsound und Hitsound der Gebäude implementiert
+Ver. 0.30.1:<br/>- Hitsound angpasst
+Ver. 0.40:<br/>  - Spiel in seperate Dateien segmentiert
