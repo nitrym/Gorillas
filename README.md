@@ -16,3 +16,4 @@ Ver. 0.27:<br/>  - Bildschirmverhältnis des Spiels wurde auf 2:1 angepasst<br/>
 Ver. 0.30:<br/>  - Wurfsound und Hitsound der Gebäude implementiert<br/><br/>
 Ver. 0.30.1:<br/>- Hitsound angepasst<br/><br/>
 Ver. 0.40:<br/>  - Spiel in seperate Dateien segmentiert<br/><br/>
+Ver. 0.50:<br/>  - Spielernamen können eingefügt werden, Multiplayer wurde eingerichtet und Scoring-System ist implementiert
